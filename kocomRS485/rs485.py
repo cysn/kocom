@@ -331,7 +331,7 @@ class Kocom(rs485):
 
         self._t1 = threading.Thread(target=self.get_serial, args=(name, packet_len))
         self._t1.start()
-        self._t2 = threading.Thread(targe    t=self.scan_list)
+        self._t2 = threading.Thread(target=self.scan_list)
         self._t2.start()
 
     def connection_lost(self):
