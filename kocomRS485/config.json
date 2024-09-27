@@ -58,45 +58,45 @@
     "KOCOM_LIGHT_SIZE": [
       {
         "name": "livingroom",
-        "number": 3
+        "number": 0
       },
       {
         "name": "bedroom",
-        "number": 2
+        "number": 0
       },
       {
         "name": "room1",
-        "number": 2
+        "number": 0
       },
       {
         "name": "room2",
-        "number": 2
+        "number": 0
       },
       {
         "name": "kitchen",
-        "number": 3
+        "number": 0
       }
     ],
     "KOCOM_PLUG_SIZE": [
       {
         "name": "livingroom",
-        "number": 3
+        "number": 0
       },
       {
         "name": "bedroom",
-        "number": 2
+        "number": 0
       },
       {
         "name": "room1",
-        "number": 2
+        "number": 0
       },
       {
         "name": "room2",
-        "number": 2
+        "number": 0
       },
       {
         "name": "kitchen",
-        "number": 3
+        "number": 0
       }
     ],
     "KOCOM_ROOM": [
